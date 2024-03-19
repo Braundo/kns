@@ -53,3 +53,6 @@ To run `kns`, simply type `kns` in your terminal.
 
 
 Ensure you have your Kubernetes configuration file (kubeconfig) correctly set up, as `kns` uses it to interact with your Kubernetes cluster.
+
+## Screenshot
+<img src="assets/screenshot.png" width="300"/>
