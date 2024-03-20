@@ -2,8 +2,6 @@
 
 <img src="assets/logo.png" width="200"/>
 
-[TOC]
-
 ## Description
 
 `kns` is a command-line tool that provides a quick overview of resource requests and limits for each namespace in a Kubernetes cluster.
